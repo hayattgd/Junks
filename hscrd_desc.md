@@ -6,6 +6,12 @@ but when abandon this, ill write here!
 
 # Description
 
+An Henry Stickmin Collection Remake on Scratch!
+
+i hope did i draw something is improved than original...
+
+and i made the story original as i can maybe...
+
 at the Fullscreen mode, the game will get low resolution.
 
 ## Tips
@@ -30,6 +36,6 @@ suggestion and bug/glitch should go comment
 
 ✓ = Added/Fixed
 
-### issuses
+### issuses/suggestions
 
 nothing here :(

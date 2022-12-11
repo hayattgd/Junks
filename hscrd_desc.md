@@ -24,9 +24,7 @@ https://turbowarp.org/773870472?offscreen&size=640x360
 
 ## suggestions
 
-suggestion and bug/glitch here!
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScDmn2BmKG18XprJJaRmwpZGijA9Nls8samCiHKxQ1MDzJX7A/viewform?embedded=true" width="640" height="601" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+suggestion and bug/glitch [here](https://forms.gle/SvS3bL875Paqn5WQ7)!
 
 (do not write about the not completed part as bug/glitch)
 

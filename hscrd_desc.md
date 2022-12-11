@@ -24,7 +24,7 @@ https://turbowarp.org/773870472?offscreen&size=640x360
 
 ## suggestions
 
-suggestion and bug/glitch [here](https://forms.gle/SvS3bL875Paqn5WQ7)!
+suggestion and bug/glitch [here](https://forms.gle/M4Eu7PekjqhHgJje9)!
 
 Feedback and something will go Scratch comment...
 

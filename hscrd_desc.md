@@ -8,7 +8,7 @@ at the Fullscreen mode, the game will get low resolution.
 
 ## suggestions
 
-any suggestion and bug/glitch should go comment
+suggestion and bug/glitch should go comment
 
 (do not write about the not completed part as bug/glitch)
 

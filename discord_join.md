@@ -1,6 +1,6 @@
 https://discord.com に開く
 
-!["ディスコード"](/md_dscrdji/1.png)
+!["ディスコード"](/md_dsccrdji/1.png)
 
 これを押す
 
